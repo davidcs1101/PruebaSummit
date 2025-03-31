@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ediso\\source\\repos\\SummitApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2B1AE7-CAE0-4924-9539-4F5B140D1137}|SummitApi\\SummitApi.csproj|c:\\users\\ediso\\source\\repos\\summitapi\\summitapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2B1AE7-CAE0-4924-9539-4F5B140D1137}|SummitApi\\SummitApi.csproj|solutionrelative:summitapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|c:\\users\\ediso\\source\\repos\\summitapi\\user.api.core\\passwordhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|solutionrelative:user.api.core\\passwordhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|c:\\users\\ediso\\source\\repos\\summitapi\\user.api.core\\memorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|solutionrelative:user.api.core\\memorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|c:\\users\\ediso\\source\\repos\\summitapi\\user.api.core\\validateuserbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|solutionrelative:user.api.core\\validateuserbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2B1AE7-CAE0-4924-9539-4F5B140D1137}|SummitApi\\SummitApi.csproj|c:\\users\\ediso\\source\\repos\\summitapi\\summitapi\\controllers\\apisummitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2B1AE7-CAE0-4924-9539-4F5B140D1137}|SummitApi\\SummitApi.csproj|solutionrelative:summitapi\\controllers\\apisummitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|c:\\users\\ediso\\source\\repos\\summitapi\\user.api.core\\saveuserbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|solutionrelative:user.api.core\\saveuserbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|c:\\users\\ediso\\source\\repos\\summitapi\\user.api.core\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|solutionrelative:user.api.core\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|c:\\users\\ediso\\source\\repos\\summitapi\\user.api.core\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|solutionrelative:user.api.core\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|c:\\users\\ediso\\source\\repos\\summitapi\\user.api.core\\servicestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|solutionrelative:user.api.core\\servicestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|c:\\users\\ediso\\source\\repos\\summitapi\\user.api.core\\getuserbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|solutionrelative:user.api.core\\getuserbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|c:\\users\\ediso\\source\\repos\\summitapi\\user.api.core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8816AAC7-692D-4B94-B16F-0A9090F44A26}|User.Api.Core\\User.Api.Core.csproj|solutionrelative:user.api.core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidateUserBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\ValidateUserBusiness.cs",
+              "RelativeDocumentMoniker": "User.Api.Core\\ValidateUserBusiness.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\ValidateUserBusiness.cs",
+              "RelativeToolTip": "User.Api.Core\\ValidateUserBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:07:46.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemoryDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\MemoryDatabase.cs",
+              "RelativeDocumentMoniker": "User.Api.Core\\MemoryDatabase.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\MemoryDatabase.cs",
+              "RelativeToolTip": "User.Api.Core\\MemoryDatabase.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvy0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:29:35.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordHash.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\PasswordHash.cs",
+              "RelativeDocumentMoniker": "User.Api.Core\\PasswordHash.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\PasswordHash.cs",
+              "RelativeToolTip": "User.Api.Core\\PasswordHash.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:45:59.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiSummitController.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\SummitApi\\SummitApi\\Controllers\\ApiSummitController.cs",
+              "RelativeDocumentMoniker": "SummitApi\\Controllers\\ApiSummitController.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\SummitApi\\SummitApi\\Controllers\\ApiSummitController.cs",
+              "RelativeToolTip": "SummitApi\\Controllers\\ApiSummitController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:08:36.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\SummitApi\\SummitApi\\Program.cs",
+              "RelativeDocumentMoniker": "SummitApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\SummitApi\\SummitApi\\Program.cs",
+              "RelativeToolTip": "SummitApi\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:44:44.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaveUserBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\SaveUserBusiness.cs",
+              "RelativeDocumentMoniker": "User.Api.Core\\SaveUserBusiness.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\SaveUserBusiness.cs",
+              "RelativeToolTip": "User.Api.Core\\SaveUserBusiness.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:03:58.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\Database.cs",
+              "RelativeDocumentMoniker": "User.Api.Core\\Database.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\Database.cs",
+              "RelativeToolTip": "User.Api.Core\\Database.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:21:12.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\UserDto.cs",
+              "RelativeDocumentMoniker": "User.Api.Core\\UserDto.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\UserDto.cs",
+              "RelativeToolTip": "User.Api.Core\\UserDto.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwDIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:24:29.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceState.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\ServiceState.cs",
+              "RelativeDocumentMoniker": "User.Api.Core\\ServiceState.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\ServiceState.cs",
+              "RelativeToolTip": "User.Api.Core\\ServiceState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:44:46.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetUserBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\GetUserBusiness.cs",
+              "RelativeDocumentMoniker": "User.Api.Core\\GetUserBusiness.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\GetUserBusiness.cs",
+              "RelativeToolTip": "User.Api.Core\\GetUserBusiness.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:48:28.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\User.cs",
+              "RelativeDocumentMoniker": "User.Api.Core\\User.cs",
+              "ToolTip": "C:\\Users\\ediso\\source\\repos\\SummitApi\\User.Api.Core\\User.cs",
+              "RelativeToolTip": "User.Api.Core\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:17:38.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@SummitApi_HostAddress = http://localhost:5197
+
+GET {{SummitApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
