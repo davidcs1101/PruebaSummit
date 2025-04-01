@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
+using User.Api.Core.ExceptionsHandlers;
 using XAct.Users;
 
 namespace User.Api.Core
@@ -52,7 +53,4 @@ namespace User.Api.Core
 
 
     }
-
-    public class UserNotFoundException : Exception { } // Excepción para 404
-    public class InvalidCredentialsException : Exception { } // Excepción para 403
 }
