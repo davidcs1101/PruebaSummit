@@ -10,6 +10,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 Database.Instance = new MemoryDatabase();
+//Database.Instance = new FileDatabase();
 
 builder.Services.AddScoped<GetUserBusiness>();
 builder.Services.AddScoped<SaveUserBusiness>();
