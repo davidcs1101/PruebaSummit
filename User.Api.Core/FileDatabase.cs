@@ -14,13 +14,14 @@ namespace User.Api.Core
         static List<User> UsersList = new List<User>();
 
         public override void ExecuteNonQuery(User user) {
-            var usuarioExiste = UsersList.Where(u => u.Username == user.Username).FirstOrDefault();
-            if (usuarioExiste != null)
+            var usuarioExiste = UsersList.Where(u => u.Username == user.Username).Any();
+            if (!usuarioExiste)
             {
-                string fileName = usuarioExiste.Username + ".txt";
+                UsersList.Add(user);
+                string fileName = user.Username + ".txt";
                 string filePath = Path.Combine(AppContext.BaseDirectory, fileName);
 
-                string jsonUsuario = JsonSerializer.Serialize(usuarioExiste);
+                string jsonUsuario = JsonSerializer.Serialize(user);
 
                 using StreamWriter writer = new StreamWriter(filePath, false);
                 writer.WriteLine(jsonUsuario);
@@ -48,7 +49,6 @@ namespace User.Api.Core
             }
             else
             {
-                // Leer todos los archivos
                 List<User> allUsers = new List<User>();
                 string[] files = Directory.GetFiles(AppContext.BaseDirectory, "*.txt");
 
@@ -71,7 +71,10 @@ namespace User.Api.Core
         }
 
         public override void ValidateUser(string userName, string password) {
-
+            //Este metodo lo dejo vacío dado que la Abstracción tambien lo contiene
+            //Podriamos segregar mas interfaces con la finalidad de heredar unicamente los metodos
+            //Necesarios para cada tipo de Database, para efectos del ejercicio en prueba lo dejo
+            //de esta manera
         }
     }
 }
