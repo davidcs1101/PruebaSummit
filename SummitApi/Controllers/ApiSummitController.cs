@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using User.Api.Core;
+using User.Api.Core.ExceptionsHandlers;
 
 namespace SummitApi.Controllers
 {
